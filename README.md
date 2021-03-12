@@ -2,10 +2,11 @@
 
 ## About
 
+This is my final refactoring of the Horiseon website. I edited and condensed the HTML and CSS for this site to optimize it for accessibility.
 
-## Installation
+I worked with a study group to work on the markup for this project.
 
-## Running the App
+![Portfolio  Site](./assets/images/screenshot.png)
 
 ## Deployed Site
 
