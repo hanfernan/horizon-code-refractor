@@ -135,7 +135,16 @@ p {
   max-width: 150px;
 }
 
-.search-engine-optimization {
+.main-content {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+/* .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -160,9 +169,12 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+.main-content img {
+  max-height: 200px;
+}
+/* .search-engine-optimization img {
   max-height: 200px;
 }
 
@@ -172,9 +184,13 @@ p {
 
 .social-media-marketing img {
   max-height: 200px;
-}
+} */
 
-.search-engine-optimization h2 {
+h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+/* .search-engine-optimization h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -187,9 +203,9 @@ p {
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
-}
+} */
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -197,6 +213,6 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
